@@ -1,3 +1,3 @@
 # wh_frontend
 
-# 8==D
+this is a website for Wildly Helpful's Frontend website Code
